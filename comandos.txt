@@ -1,0 +1,10 @@
+npm install express nodemon
+
+Funciona igual o live serve
+npm i nodemon -D
+
+
+ node nodemon src/index.js
+
+
+npx - executa pacotes
